@@ -11,7 +11,22 @@ ModelImporter:
     2300000: //RootNode
     3300000: //RootNode
     4300000: Warehouse03
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BrickWall1
+    second: {fileID: 2100000, guid: f43ab39338c0b6947b60807477f681dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plaster1
+    second: {fileID: 2100000, guid: cc12283c5ed709548bc90552ff077247, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VCOL1
+    second: {fileID: 2100000, guid: 20f44d9199a5b2145b7838c5b2d34ec3, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
