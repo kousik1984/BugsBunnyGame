@@ -9,7 +9,12 @@ ModelImporter:
     2300000: //RootNode
     3300000: //RootNode
     4300000: BinBagOpen
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BinBag
+    second: {fileID: 2100000, guid: c6deac7e05314174a9841defc2c438d9, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

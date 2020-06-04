@@ -9,7 +9,12 @@ ModelImporter:
     2300000: //RootNode
     3300000: //RootNode
     4300000: RoadWorksBarrier01
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoadWorksBarrier02
+    second: {fileID: 2100000, guid: ccf46076ece924b478e4c8d371547cd8, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

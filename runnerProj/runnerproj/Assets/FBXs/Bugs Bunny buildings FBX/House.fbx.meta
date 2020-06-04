@@ -10,7 +10,17 @@ ModelImporter:
     2300000: //RootNode
     3300000: //RootNode
     4300000: House
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plaster
+    second: {fileID: 2100000, guid: a4aa79689b703194db30a28d8d8d9276, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VCOL
+    second: {fileID: 2100000, guid: 8d5140bf1d1546d49999128b4c39b97b, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

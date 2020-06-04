@@ -10,7 +10,17 @@ ModelImporter:
     2300000: //RootNode
     3300000: //RootNode
     4300000: SkipBlue
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rubbish
+    second: {fileID: 2100000, guid: 7a6b5208ef2ede149bd0a3907ac459a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skip
+    second: {fileID: 2100000, guid: b78adcef1895eb243ba2ab4642f1c3f2, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

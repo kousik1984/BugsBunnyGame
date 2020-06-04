@@ -9,7 +9,12 @@ ModelImporter:
     2300000: //RootNode
     3300000: //RootNode
     4300000: StreetLight
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StreetLight_m
+    second: {fileID: 2100000, guid: 2d3808333155de64b8bc0e8c0e77f50a, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

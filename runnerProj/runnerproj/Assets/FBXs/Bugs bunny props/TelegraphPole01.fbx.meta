@@ -9,7 +9,12 @@ ModelImporter:
     2300000: //RootNode
     3300000: //RootNode
     4300000: TelegraphPole01
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TelegraphPole01_m
+    second: {fileID: 2100000, guid: cef89b32ba170e6418b2b2289102e5a2, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

@@ -9,7 +9,12 @@ ModelImporter:
     2300000: //RootNode
     3300000: //RootNode
     4300000: Fishbone2
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fishbone
+    second: {fileID: 2100000, guid: 792944aa3cd947a49a05842b7c3e5cc9, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
