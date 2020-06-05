@@ -7,8 +7,7 @@ ModelImporter:
     100002: //RootNode
     400000: Road02
     400002: //RootNode
-    2100000: VCOL
-    2100002: lambert1
+    2100000: Road_02
     2300000: Road02
     3300000: Road02
     4300000: Road02
@@ -16,13 +15,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: VCOL
-    second: {fileID: 2100000, guid: 0da4677c3c0af7849b2d84d419c3878c, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: lambert1
-    second: {fileID: 2100000, guid: 2053729368bf37f4cb5d4c1584dd5c92, type: 2}
+      name: Road_02
+    second: {fileID: 2100000, guid: 54f7d8a0e3e37cd41892013094421f3a, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
