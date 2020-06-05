@@ -13,3 +13,5 @@ runnerProj/runnerproj/.vs
 *.csproj
 *.sln
 runnerProj/runnerproj/Library/metadata/03/0386b6eb838c47138cd51d1c1b879a35
+*.csproj
+*.meta
