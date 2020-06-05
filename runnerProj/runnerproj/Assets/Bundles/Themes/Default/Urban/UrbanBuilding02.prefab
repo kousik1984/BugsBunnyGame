@@ -1580,13 +1580,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Road02 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: fb204e2a03ca38445981d35d3a888094, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: fb204e2a03ca38445981d35d3a888094, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: fb204e2a03ca38445981d35d3a888094, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.10147
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: fb204e2a03ca38445981d35d3a888094, type: 3}
       propertyPath: m_LocalPosition.z
