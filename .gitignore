@@ -4,5 +4,9 @@ runnerProj/runnerproj/Library/
 runnerProj/runnerproj/Logs/
 runnerProj/runnerproj/Temp/
 runnerProj/runnerproj/.vs/
+runnerProj/runnerproj/Library
+runnerProj/runnerproj/Logs
+runnerProj/runnerproj/Temp
+runnerProj/runnerproj/.vs
 *.csproj
 *.sln
