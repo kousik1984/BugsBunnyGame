@@ -1,2 +1,8 @@
 
 runnerProj/runnerproj/Temp/UnityLockfile
+runnerProj/runnerproj/Library/
+runnerProj/runnerproj/Logs/
+runnerProj/runnerproj/Temp/
+runnerProj/runnerproj/.vs/
+*.csproj
+*.sln
