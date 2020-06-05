@@ -7,7 +7,7 @@ ModelImporter:
     100002: BrickWall01
     400000: //RootNode
     400002: BrickWall01
-    2100000: BrickWall
+    2100000: BrickWall02
     2300000: BrickWall01
     3300000: BrickWall01
     4300000: BrickWall01
@@ -15,8 +15,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: BrickWall
-    second: {fileID: 2100000, guid: e949527b62e66dd4ab7310206225e2ba, type: 2}
+      name: BrickWall02
+    second: {fileID: 2100000, guid: d801a7698a480c240986810954a82d49, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

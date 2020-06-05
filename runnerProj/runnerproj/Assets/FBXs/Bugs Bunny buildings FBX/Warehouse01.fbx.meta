@@ -5,8 +5,8 @@ ModelImporter:
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: VCOL
-    2100002: Plaster
+    2100000: Warehouse01_VCOL
+    2100002: Warehouse01_Plaster
     2300000: //RootNode
     3300000: //RootNode
     4300000: Warehouse01
@@ -14,13 +14,13 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Plaster
-    second: {fileID: 2100000, guid: 0ca08b81d156bf441b863a1f7791fc47, type: 2}
+      name: Warehouse01_Plaster
+    second: {fileID: 2100000, guid: 7527bb5995b797447b265044260d0862, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: VCOL
-    second: {fileID: 2100000, guid: a9295c8814393fa4185673b301286794, type: 2}
+      name: Warehouse01_VCOL
+    second: {fileID: 2100000, guid: ae07604ba14d1a147bde4e0ca2753f0f, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

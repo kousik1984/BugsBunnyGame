@@ -15,12 +15,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Plaster
-    second: {fileID: 2100000, guid: 6f392457e7695e24aab0c554d4d8e6c3, type: 2}
+    second: {fileID: 2100000, guid: 5a46d2a60da8d37489c936dea879babf, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: VCOL
-    second: {fileID: 2100000, guid: 9a096c3cb8c93864daef9d3a5331024d, type: 2}
+    second: {fileID: 2100000, guid: ea7768deb63ff67499a95549deac324a, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

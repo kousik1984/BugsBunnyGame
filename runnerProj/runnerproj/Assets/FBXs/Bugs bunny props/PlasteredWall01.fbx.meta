@@ -7,8 +7,7 @@ ModelImporter:
     100002: //RootNode
     400000: PlasteredWall01
     400002: //RootNode
-    2100000: lambert1
-    2100002: BrickWall
+    2100000: PlasteredWall_01
     2300000: PlasteredWall01
     3300000: PlasteredWall01
     4300000: PlasteredWall01
@@ -16,13 +15,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: BrickWall
-    second: {fileID: 2100000, guid: b9abce276637687409ac9bcab4c2b852, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: lambert1
-    second: {fileID: 2100000, guid: 06abf9643fcd0b54e9b386ca6a19ebbb, type: 2}
+      name: PlasteredWall_01
+    second: {fileID: 2100000, guid: 3a4f7d14837744743b573d3c22ba122b, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
