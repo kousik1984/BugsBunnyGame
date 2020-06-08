@@ -3,20 +3,18 @@ guid: fb204e2a03ca38445981d35d3a888094
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: Road02
-    100002: //RootNode
-    400000: Road02
-    400002: //RootNode
-    2100000: Road_02
-    2300000: Road02
-    3300000: Road02
-    4300000: Road02
+    100000: //RootNode
+    400000: //RootNode
+    2100000: Road_02_M
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Road_02
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Road_02
-    second: {fileID: 2100000, guid: 54f7d8a0e3e37cd41892013094421f3a, type: 2}
+      name: Road_02_M
+    second: {fileID: 2100000, guid: 5d932b3d12c1047478372a0b9b0e222b, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
